@@ -3,6 +3,6 @@ class Triangle
   end
 
   def kind
-
+    self.type
   end
 end
